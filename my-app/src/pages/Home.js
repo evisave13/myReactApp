@@ -5,7 +5,7 @@ function Home() {
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
       <h1>Welcome to Our Clinic</h1>
-      <p>Your health is our priority.</p>
+      <p>Your health is our priority..</p>
     </div>
   );
 }
