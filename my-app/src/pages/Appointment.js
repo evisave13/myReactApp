@@ -5,7 +5,7 @@ function Appointment() {
   return (
     <div>
       <h1>Appointments</h1>
-      <p>This is the Appointments page where users can schedule or view appointments.</p>
+      <p>This is the Appointments page. Take appointment to talk with Mr. Ekant Visave</p>
     </div>
   );
 }
